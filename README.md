@@ -7,9 +7,9 @@ Hệ thống quản lý và đặt nước online cho quán Fuba (Bài tập th�
 | :--- | :--- | :---: | :--- |
 | 1 | Lê Thị Tường Vi | FUBA-1 | Nhóm trưởng / Scrum Master |
 | 2 | **Trương Diệp** | **FUBA-2** | Cấu hình Repo, quy trình Git & README |
-| 3 | Thành viên 3 | FUBA-3 | Nghiên cứu kiến trúc hệ thống |
-| 4 | Thành viên 4 | FUBA-4 | Thiết kế Database & ERD |
-| 5 | Thành viên 5 | FUBA-5 / FUBA-6 | Khởi tạo khung Backend & Frontend |
+| 3 | Lê Phạm Thanh Huyền  | FUBA-3 | Nghiên cứu kiến trúc hệ thống |
+| 4 | Phan Thị Yến Nhi | FUBA-4 | Thiết kế Database & ERD |
+| 5 | Đoàn Lý Tường Vy | FUBA-5 / FUBA-6 | Khởi tạo khung Backend & Frontend |
 
 ## 📁 Cấu trúc thư mục dự án
 ```text
